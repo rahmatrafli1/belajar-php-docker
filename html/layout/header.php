@@ -8,4 +8,4 @@
 </head>
 
 <body>
-    <a href="/">Home</a> | <a href="/about">About</a> | <a href="/fungsi">Fungsi</a>
+    <a href="/">Home</a> | <a href="/about">About</a> | <a href="/fungsi">Fungsi</a> | <a href="/variabel">Variabel</a>
