@@ -8,4 +8,4 @@
 </head>
 
 <body>
-    <a href="/">Home</a> | <a href="/about">About</a> | <a href="/fungsi">Fungsi</a> | <a href="/variabel">Variabel</a> | <a href="/konstanta">Konstanta</a> | <a href="/operator">Operator</a> | <a href="/percabangan">Percabangan</a>
+    <a href="/">Home</a> | <a href="/about">About</a> | <a href="/fungsi">Fungsi</a> | <a href="/variabel">Variabel</a> | <a href="/konstanta">Konstanta</a> | <a href="/operator">Operator</a> | <a href="/percabangan">Percabangan</a> | <a href="/perulangan">Perulangan</a>
