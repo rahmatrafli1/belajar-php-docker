@@ -4,12 +4,18 @@
 
 Cara menjalankan php dan melakukan build ini yaitu sebagai berikut:
 
-- `docker compose up -d --build`
+```bash
+$ docker compose up -d --build
+```
 
 Cara menghentikan php ini yaitu sebagai berikut:
 
-- `docker compose stop`
+```bash
+$ docker compose stop
+```
 
 Cara menghentikan php sekaligus menghapus container dan menghapus volume yaitu sebagai berikut:
 
-- `docker compose down -v`
+```bash
+$ docker compose down -v
+```
