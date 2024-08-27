@@ -11,7 +11,7 @@ $ docker compose up -d --build
 Cara memulai php ini yaitu sebagai berikut:
 
 ```bash
-$ docker compose stop
+$ docker compose start
 ```
 
 Cara menghentikan php ini yaitu sebagai berikut:
